@@ -14,3 +14,11 @@ _book
 *.epub
 *.mobi
 *.pdf
+.lightly
+.c_bin
+.classes
+logs
+*.log
+dist
+dist-ssr
+*.local
